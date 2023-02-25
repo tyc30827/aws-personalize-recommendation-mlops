@@ -18,7 +18,7 @@ A repository about how to apply automatic workflow to personalized recommendatio
     - Interaction, Item, User data
     - source
         - real-time interaction
-            - upload events directly from Kinesis Data Firehose
+            - upload events directly from Kinesis Data Firehose and Lambda
         - batch import
             - S3
             - Athena (SQL)
